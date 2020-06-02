@@ -1,0 +1,691 @@
+/System/Library/Fonts/Apple Braille Outline 6 Dot.ttf
+/System/Library/Fonts/Apple Braille Outline 8 Dot.ttf
+/System/Library/Fonts/Apple Braille Pinpoint 6 Dot.ttf
+/System/Library/Fonts/Apple Braille Pinpoint 8 Dot.ttf
+/System/Library/Fonts/Apple Braille.ttf
+/System/Library/Fonts/Apple Color Emoji.ttc
+/System/Library/Fonts/Apple Symbols.ttf
+/System/Library/Fonts/AppleSDGothicNeo.ttc
+/System/Library/Fonts/AquaKana.ttc
+/System/Library/Fonts/ArialHB.ttc
+/System/Library/Fonts/Avenir Next Condensed.ttc
+/System/Library/Fonts/Avenir Next.ttc
+/System/Library/Fonts/Avenir.ttc
+/System/Library/Fonts/Courier.dfont
+/System/Library/Fonts/GeezaPro.ttc
+/System/Library/Fonts/Geneva.dfont
+/System/Library/Fonts/HelveLTMM
+/System/Library/Fonts/Helvetica.dfont
+/System/Library/Fonts/HelveticaNeue.dfont
+/System/Library/Fonts/HelveticaNeueDeskInterface.ttc
+/System/Library/Fonts/Hiragino Sans GB W3.ttc
+/System/Library/Fonts/Hiragino Sans GB W6.ttc
+/System/Library/Fonts/Keyboard.ttf
+/System/Library/Fonts/Kohinoor.ttc
+/System/Library/Fonts/KohinoorBangla.ttc
+/System/Library/Fonts/KohinoorTelugu.ttc
+/System/Library/Fonts/LastResort.ttf
+/System/Library/Fonts/LucidaGrande.ttc
+/System/Library/Fonts/MarkerFelt.ttc
+/System/Library/Fonts/Menlo.ttc
+/System/Library/Fonts/Monaco.dfont
+/System/Library/Fonts/Noteworthy.ttc
+/System/Library/Fonts/Optima.ttc
+/System/Library/Fonts/Palatino.ttc
+/System/Library/Fonts/PingFang.ttc
+/System/Library/Fonts/SFCompactDisplay-Black.otf
+/System/Library/Fonts/SFCompactDisplay-Bold.otf
+/System/Library/Fonts/SFCompactDisplay-Heavy.otf
+/System/Library/Fonts/SFCompactDisplay-Light.otf
+/System/Library/Fonts/SFCompactDisplay-Medium.otf
+/System/Library/Fonts/SFCompactDisplay-Regular.otf
+/System/Library/Fonts/SFCompactDisplay-Semibold.otf
+/System/Library/Fonts/SFCompactDisplay-Thin.otf
+/System/Library/Fonts/SFCompactDisplay-Ultralight.otf
+/System/Library/Fonts/SFCompactRounded-Black.otf
+/System/Library/Fonts/SFCompactRounded-Bold.otf
+/System/Library/Fonts/SFCompactRounded-Heavy.otf
+/System/Library/Fonts/SFCompactRounded-Light.otf
+/System/Library/Fonts/SFCompactRounded-Medium.otf
+/System/Library/Fonts/SFCompactRounded-Regular.otf
+/System/Library/Fonts/SFCompactRounded-Semibold.otf
+/System/Library/Fonts/SFCompactRounded-Thin.otf
+/System/Library/Fonts/SFCompactRounded-Ultralight.otf
+/System/Library/Fonts/SFCompactText-Bold.otf
+/System/Library/Fonts/SFCompactText-BoldItalic.otf
+/System/Library/Fonts/SFCompactText-Heavy.otf
+/System/Library/Fonts/SFCompactText-HeavyItalic.otf
+/System/Library/Fonts/SFCompactText-Light.otf
+/System/Library/Fonts/SFCompactText-LightItalic.otf
+/System/Library/Fonts/SFCompactText-Medium.otf
+/System/Library/Fonts/SFCompactText-MediumItalic.otf
+/System/Library/Fonts/SFCompactText-Regular.otf
+/System/Library/Fonts/SFCompactText-RegularItalic.otf
+/System/Library/Fonts/SFCompactText-Semibold.otf
+/System/Library/Fonts/SFCompactText-SemiboldItalic.otf
+/System/Library/Fonts/SFNSDisplay.ttf
+/System/Library/Fonts/SFNSDisplayCondensed-Black.otf
+/System/Library/Fonts/SFNSDisplayCondensed-Bold.otf
+/System/Library/Fonts/SFNSDisplayCondensed-Heavy.otf
+/System/Library/Fonts/SFNSDisplayCondensed-Light.otf
+/System/Library/Fonts/SFNSDisplayCondensed-Medium.otf
+/System/Library/Fonts/SFNSDisplayCondensed-Regular.otf
+/System/Library/Fonts/SFNSDisplayCondensed-Semibold.otf
+/System/Library/Fonts/SFNSDisplayCondensed-Thin.otf
+/System/Library/Fonts/SFNSDisplayCondensed-Ultralight.otf
+/System/Library/Fonts/SFNSText.ttf
+/System/Library/Fonts/SFNSTextCondensed-Bold.otf
+/System/Library/Fonts/SFNSTextCondensed-Heavy.otf
+/System/Library/Fonts/SFNSTextCondensed-Light.otf
+/System/Library/Fonts/SFNSTextCondensed-Medium.otf
+/System/Library/Fonts/SFNSTextCondensed-Regular.otf
+/System/Library/Fonts/SFNSTextCondensed-Semibold.otf
+/System/Library/Fonts/SFNSTextItalic.ttf
+/System/Library/Fonts/STHeiti Light.ttc
+/System/Library/Fonts/STHeiti Medium.ttc
+/System/Library/Fonts/Symbol.ttf
+/System/Library/Fonts/Thonburi.ttc
+/System/Library/Fonts/Times.dfont
+/System/Library/Fonts/TimesLTMM
+/System/Library/Fonts/ZapfDingbats.ttf
+/System/Library/Fonts/ヒラギノ明朝 ProN W3.ttc
+/System/Library/Fonts/ヒラギノ明朝 ProN W6.ttc
+/System/Library/Fonts/ヒラギノ角ゴシック W0.ttc
+/System/Library/Fonts/ヒラギノ角ゴシック W1.ttc
+/System/Library/Fonts/ヒラギノ角ゴシック W2.ttc
+/System/Library/Fonts/ヒラギノ角ゴシック W3.ttc
+/System/Library/Fonts/ヒラギノ角ゴシック W4.ttc
+/System/Library/Fonts/ヒラギノ角ゴシック W5.ttc
+/System/Library/Fonts/ヒラギノ角ゴシック W6.ttc
+/System/Library/Fonts/ヒラギノ角ゴシック W7.ttc
+/System/Library/Fonts/ヒラギノ角ゴシック W8.ttc
+/System/Library/Fonts/ヒラギノ角ゴシック W9.ttc
+/Library/Fonts/ACaslonPro-Bold.otf
+/Library/Fonts/ACaslonPro-BoldItalic.otf
+/Library/Fonts/ACaslonPro-Italic.otf
+/Library/Fonts/ACaslonPro-Regular.otf
+/Library/Fonts/ACaslonPro-Semibold.otf
+/Library/Fonts/ACaslonPro-SemiboldItalic.otf
+/Library/Fonts/AGaramondPro-Bold.otf
+/Library/Fonts/AGaramondPro-BoldItalic.otf
+/Library/Fonts/AGaramondPro-Italic.otf
+/Library/Fonts/AGaramondPro-Regular.otf
+/Library/Fonts/AdobeArabic-Bold.otf
+/Library/Fonts/AdobeArabic-BoldItalic.otf
+/Library/Fonts/AdobeArabic-Italic.otf
+/Library/Fonts/AdobeArabic-Regular.otf
+/Library/Fonts/AdobeDevanagari-Bold.otf
+/Library/Fonts/AdobeDevanagari-BoldItalic.otf
+/Library/Fonts/AdobeDevanagari-Italic.otf
+/Library/Fonts/AdobeDevanagari-Regular.otf
+/Library/Fonts/AdobeFanHeitiStd-Bold.otf
+/Library/Fonts/AdobeFangsongStd-Regular.otf
+/Library/Fonts/AdobeGothicStd-Bold.otf
+/Library/Fonts/AdobeGurmukhi-Bold.otf
+/Library/Fonts/AdobeGurmukhi-Regular.otf
+/Library/Fonts/AdobeHebrew-Bold.otf
+/Library/Fonts/AdobeHebrew-BoldItalic.otf
+/Library/Fonts/AdobeHebrew-Italic.otf
+/Library/Fonts/AdobeHebrew-Regular.otf
+/Library/Fonts/AdobeHeitiStd-Regular.otf
+/Library/Fonts/AdobeKaitiStd-Regular.otf
+/Library/Fonts/AdobeMingStd-Light.otf
+/Library/Fonts/AdobeMyungjoStd-Medium.otf
+/Library/Fonts/AdobeNaskh-Medium.otf
+/Library/Fonts/AdobeSongStd-Light.otf
+/Library/Fonts/Al Nile.ttc
+/Library/Fonts/Al Tarikh.ttc
+/Library/Fonts/AlBayan.ttc
+/Library/Fonts/AmericanTypewriter.ttc
+/Library/Fonts/Andale Mono.ttf
+/Library/Fonts/Apple Chancery.ttf
+/Library/Fonts/AppleGothic.ttf
+/Library/Fonts/AppleMyungjo.ttf
+/Library/Fonts/Arial Black.ttf
+/Library/Fonts/Arial Bold Italic.ttf
+/Library/Fonts/Arial Bold.ttf
+/Library/Fonts/Arial Italic.ttf
+/Library/Fonts/Arial Narrow Bold Italic.ttf
+/Library/Fonts/Arial Narrow Bold.ttf
+/Library/Fonts/Arial Narrow Italic.ttf
+/Library/Fonts/Arial Narrow.ttf
+/Library/Fonts/Arial Rounded Bold.ttf
+/Library/Fonts/Arial Unicode.ttf
+/Library/Fonts/Arial.ttf
+/Library/Fonts/Athelas.ttc
+/Library/Fonts/Ayuthaya.ttf
+/Library/Fonts/Baghdad.ttc
+/Library/Fonts/Bangla MN.ttc
+/Library/Fonts/Bangla Sangam MN.ttc
+/Library/Fonts/Baskerville.ttc
+/Library/Fonts/Beirut.ttc
+/Library/Fonts/BigCaslon.ttf
+/Library/Fonts/BirchStd.otf
+/Library/Fonts/BlackoakStd.otf
+/Library/Fonts/Bodoni 72 OS.ttc
+/Library/Fonts/Bodoni 72 Smallcaps Book.ttf
+/Library/Fonts/Bodoni 72.ttc
+/Library/Fonts/Bodoni Ornaments.ttf
+/Library/Fonts/Bradley Hand Bold.ttf
+/Library/Fonts/Brush Script.ttf
+/Library/Fonts/BrushScriptStd.otf
+/Library/Fonts/Chalkboard.ttc
+/Library/Fonts/ChalkboardSE.ttc
+/Library/Fonts/Chalkduster.ttf
+/Library/Fonts/ChaparralPro-Bold.otf
+/Library/Fonts/ChaparralPro-BoldIt.otf
+/Library/Fonts/ChaparralPro-Italic.otf
+/Library/Fonts/ChaparralPro-LightIt.otf
+/Library/Fonts/ChaparralPro-Regular.otf
+/Library/Fonts/CharlemagneStd-Bold.otf
+/Library/Fonts/Charter.ttc
+/Library/Fonts/Cochin.ttc
+/Library/Fonts/Comic Sans MS Bold.ttf
+/Library/Fonts/Comic Sans MS.ttf
+/Library/Fonts/CooperBlackStd-Italic.otf
+/Library/Fonts/CooperBlackStd.otf
+/Library/Fonts/Copperplate.ttc
+/Library/Fonts/Corsiva.ttc
+/Library/Fonts/Courier New Bold Italic.ttf
+/Library/Fonts/Courier New Bold.ttf
+/Library/Fonts/Courier New Italic.ttf
+/Library/Fonts/Courier New.ttf
+/Library/Fonts/DIN Alternate Bold.ttf
+/Library/Fonts/DIN Condensed Bold.ttf
+/Library/Fonts/Damascus.ttc
+/Library/Fonts/DecoTypeNaskh.ttc
+/Library/Fonts/Devanagari Sangam MN.ttc
+/Library/Fonts/DevanagariMT.ttc
+/Library/Fonts/Didot.ttc
+/Library/Fonts/Diwan Kufi.ttc
+/Library/Fonts/Diwan Thuluth.ttf
+/Library/Fonts/EuphemiaCAS.ttc
+/Library/Fonts/Farah.ttc
+/Library/Fonts/Farisi.ttf
+/Library/Fonts/Futura.ttc
+/Library/Fonts/Georgia Bold Italic.ttf
+/Library/Fonts/Georgia Bold.ttf
+/Library/Fonts/Georgia Italic.ttf
+/Library/Fonts/Georgia.ttf
+/Library/Fonts/GiddyupStd.otf
+/Library/Fonts/GillSans.ttc
+/Library/Fonts/Gujarati Sangam MN.ttc
+/Library/Fonts/GujaratiMT.ttc
+/Library/Fonts/Gurmukhi MN.ttc
+/Library/Fonts/Gurmukhi Sangam MN.ttc
+/Library/Fonts/Gurmukhi.ttf
+/Library/Fonts/Herculanum.ttf
+/Library/Fonts/HoboStd.otf
+/Library/Fonts/Hoefler Text Ornaments.ttf
+/Library/Fonts/Hoefler Text.ttc
+/Library/Fonts/ITFDevanagari.ttc
+/Library/Fonts/Impact.ttf
+/Library/Fonts/InaiMathi.ttf
+/Library/Fonts/Iowan Old Style.ttc
+/Library/Fonts/Kailasa.ttc
+/Library/Fonts/Kannada MN.ttc
+/Library/Fonts/Kannada Sangam MN.ttc
+/Library/Fonts/Kefa.ttc
+/Library/Fonts/Khmer MN.ttc
+/Library/Fonts/Khmer Sangam MN.ttf
+/Library/Fonts/Kokonor.ttf
+/Library/Fonts/KozGoPr6N-Bold.otf
+/Library/Fonts/KozGoPr6N-ExtraLight.otf
+/Library/Fonts/KozGoPr6N-Heavy.otf
+/Library/Fonts/KozGoPr6N-Light.otf
+/Library/Fonts/KozGoPr6N-Medium.otf
+/Library/Fonts/KozGoPr6N-Regular.otf
+/Library/Fonts/KozGoPro-Bold.otf
+/Library/Fonts/KozGoPro-ExtraLight.otf
+/Library/Fonts/KozGoPro-Heavy.otf
+/Library/Fonts/KozGoPro-Light.otf
+/Library/Fonts/KozGoPro-Medium.otf
+/Library/Fonts/KozGoPro-Regular.otf
+/Library/Fonts/KozMinPr6N-Bold.otf
+/Library/Fonts/KozMinPr6N-ExtraLight.otf
+/Library/Fonts/KozMinPr6N-Heavy.otf
+/Library/Fonts/KozMinPr6N-Light.otf
+/Library/Fonts/KozMinPr6N-Medium.otf
+/Library/Fonts/KozMinPr6N-Regular.otf
+/Library/Fonts/KozMinPro-Bold.otf
+/Library/Fonts/KozMinPro-ExtraLight.otf
+/Library/Fonts/KozMinPro-Heavy.otf
+/Library/Fonts/KozMinPro-Light.otf
+/Library/Fonts/KozMinPro-Medium.otf
+/Library/Fonts/KozMinPro-Regular.otf
+/Library/Fonts/Krungthep.ttf
+/Library/Fonts/KufiStandardGK.ttc
+/Library/Fonts/Lao MN.ttc
+/Library/Fonts/Lao Sangam MN.ttf
+/Library/Fonts/LetterGothicStd-Bold.otf
+/Library/Fonts/LetterGothicStd-BoldSlanted.otf
+/Library/Fonts/LetterGothicStd-Slanted.otf
+/Library/Fonts/LetterGothicStd.otf
+/Library/Fonts/LithosPro-Black.otf
+/Library/Fonts/LithosPro-Regular.otf
+/Library/Fonts/Luminari.ttf
+/Library/Fonts/Malayalam MN.ttc
+/Library/Fonts/Malayalam Sangam MN.ttc
+/Library/Fonts/Marion.ttc
+/Library/Fonts/MesquiteStd.otf
+/Library/Fonts/Microsoft/
+/Library/Fonts/Microsoft Sans Serif.ttf
+/Library/Fonts/MinionPro-Bold.otf
+/Library/Fonts/MinionPro-BoldCn.otf
+/Library/Fonts/MinionPro-BoldCnIt.otf
+/Library/Fonts/MinionPro-BoldIt.otf
+/Library/Fonts/MinionPro-It.otf
+/Library/Fonts/MinionPro-Medium.otf
+/Library/Fonts/MinionPro-MediumIt.otf
+/Library/Fonts/MinionPro-Regular.otf
+/Library/Fonts/MinionPro-Semibold.otf
+/Library/Fonts/MinionPro-SemiboldIt.otf
+/Library/Fonts/Mishafi Gold.ttf
+/Library/Fonts/Mishafi.ttf
+/Library/Fonts/Mshtakan.ttc
+/Library/Fonts/Muna.ttc
+/Library/Fonts/Myanmar MN.ttc
+/Library/Fonts/Myanmar Sangam MN.ttc
+/Library/Fonts/MyriadArabic-Bold.otf
+/Library/Fonts/MyriadArabic-BoldIt.otf
+/Library/Fonts/MyriadArabic-It.otf
+/Library/Fonts/MyriadArabic-Regular.otf
+/Library/Fonts/MyriadHebrew-Bold.otf
+/Library/Fonts/MyriadHebrew-BoldIt.otf
+/Library/Fonts/MyriadHebrew-It.otf
+/Library/Fonts/MyriadHebrew-Regular.otf
+/Library/Fonts/MyriadPro-Bold.otf
+/Library/Fonts/MyriadPro-BoldCond.otf
+/Library/Fonts/MyriadPro-BoldCondIt.otf
+/Library/Fonts/MyriadPro-BoldIt.otf
+/Library/Fonts/MyriadPro-Cond.otf
+/Library/Fonts/MyriadPro-CondIt.otf
+/Library/Fonts/MyriadPro-It.otf
+/Library/Fonts/MyriadPro-Regular.otf
+/Library/Fonts/MyriadPro-Semibold.otf
+/Library/Fonts/MyriadPro-SemiboldIt.otf
+/Library/Fonts/NISC18030.ttf
+/Library/Fonts/Nadeem.ttc
+/Library/Fonts/NewPeninimMT.ttc
+/Library/Fonts/NuevaStd-Bold.otf
+/Library/Fonts/NuevaStd-BoldCond.otf
+/Library/Fonts/NuevaStd-BoldCondItalic.otf
+/Library/Fonts/NuevaStd-Cond.otf
+/Library/Fonts/NuevaStd-CondItalic.otf
+/Library/Fonts/NuevaStd-Italic.otf
+/Library/Fonts/OCRAStd.otf
+/Library/Fonts/OratorStd-Slanted.otf
+/Library/Fonts/OratorStd.otf
+/Library/Fonts/Oriya MN.ttc
+/Library/Fonts/Oriya Sangam MN.ttc
+/Library/Fonts/PTMono.ttc
+/Library/Fonts/PTSans.ttc
+/Library/Fonts/PTSerif.ttc
+/Library/Fonts/PTSerifCaption.ttc
+/Library/Fonts/Papyrus.ttc
+/Library/Fonts/Phosphate.ttc
+/Library/Fonts/PlantagenetCherokee.ttf
+/Library/Fonts/PoplarStd.otf
+/Library/Fonts/PrestigeEliteStd-Bd.otf
+/Library/Fonts/Raanana.ttc
+/Library/Fonts/RosewoodStd-Regular.otf
+/Library/Fonts/STIXGeneral.otf
+/Library/Fonts/STIXGeneralBol.otf
+/Library/Fonts/STIXGeneralBolIta.otf
+/Library/Fonts/STIXGeneralItalic.otf
+/Library/Fonts/STIXIntDBol.otf
+/Library/Fonts/STIXIntDReg.otf
+/Library/Fonts/STIXIntSmBol.otf
+/Library/Fonts/STIXIntSmReg.otf
+/Library/Fonts/STIXIntUpBol.otf
+/Library/Fonts/STIXIntUpDBol.otf
+/Library/Fonts/STIXIntUpDReg.otf
+/Library/Fonts/STIXIntUpReg.otf
+/Library/Fonts/STIXIntUpSmBol.otf
+/Library/Fonts/STIXIntUpSmReg.otf
+/Library/Fonts/STIXNonUni.otf
+/Library/Fonts/STIXNonUniBol.otf
+/Library/Fonts/STIXNonUniBolIta.otf
+/Library/Fonts/STIXNonUniIta.otf
+/Library/Fonts/STIXSizFiveSymReg.otf
+/Library/Fonts/STIXSizFourSymBol.otf
+/Library/Fonts/STIXSizFourSymReg.otf
+/Library/Fonts/STIXSizOneSymBol.otf
+/Library/Fonts/STIXSizOneSymReg.otf
+/Library/Fonts/STIXSizThreeSymBol.otf
+/Library/Fonts/STIXSizThreeSymReg.otf
+/Library/Fonts/STIXSizTwoSymBol.otf
+/Library/Fonts/STIXSizTwoSymReg.otf
+/Library/Fonts/STIXVar.otf
+/Library/Fonts/STIXVarBol.otf
+/Library/Fonts/Sana.ttc
+/Library/Fonts/Sathu.ttf
+/Library/Fonts/Savoye LET.ttc
+/Library/Fonts/Seravek.ttc
+/Library/Fonts/Shree714.ttc
+/Library/Fonts/SignPainter.ttc
+/Library/Fonts/Silom.ttf
+/Library/Fonts/Sinhala MN.ttc
+/Library/Fonts/Sinhala Sangam MN.ttc
+/Library/Fonts/Skia.ttf
+/Library/Fonts/SnellRoundhand.ttc
+/Library/Fonts/Songti.ttc
+/Library/Fonts/SourceSansPro-Black.otf
+/Library/Fonts/SourceSansPro-BlackIt.otf
+/Library/Fonts/SourceSansPro-Bold.otf
+/Library/Fonts/SourceSansPro-BoldIt.otf
+/Library/Fonts/SourceSansPro-ExtraLight.otf
+/Library/Fonts/SourceSansPro-ExtraLightIt.otf
+/Library/Fonts/SourceSansPro-It.otf
+/Library/Fonts/SourceSansPro-Light.otf
+/Library/Fonts/SourceSansPro-LightIt.otf
+/Library/Fonts/SourceSansPro-Regular.otf
+/Library/Fonts/SourceSansPro-Semibold.otf
+/Library/Fonts/SourceSansPro-SemiboldIt.otf
+/Library/Fonts/StencilStd.otf
+/Library/Fonts/SukhumvitSet.ttc
+/Library/Fonts/SuperClarendon.ttc
+/Library/Fonts/Tahoma Bold.ttf
+/Library/Fonts/Tahoma.ttf
+/Library/Fonts/Tamil MN.ttc
+/Library/Fonts/Tamil Sangam MN.ttc
+/Library/Fonts/TeamViewer9.otf
+/Library/Fonts/TektonPro-Bold.otf
+/Library/Fonts/TektonPro-BoldCond.otf
+/Library/Fonts/TektonPro-BoldExt.otf
+/Library/Fonts/TektonPro-BoldObl.otf
+/Library/Fonts/Telugu MN.ttc
+/Library/Fonts/Telugu Sangam MN.ttc
+/Library/Fonts/Times New Roman Bold Italic.ttf
+/Library/Fonts/Times New Roman Bold.ttf
+/Library/Fonts/Times New Roman Italic.ttf
+/Library/Fonts/Times New Roman.ttf
+/Library/Fonts/TrajanPro-Bold.otf
+/Library/Fonts/TrajanPro-Regular.otf
+/Library/Fonts/TrajanPro3-Bold.otf
+/Library/Fonts/TrajanPro3-Regular.otf
+/Library/Fonts/Trattatello.ttf
+/Library/Fonts/Trebuchet MS Bold Italic.ttf
+/Library/Fonts/Trebuchet MS Bold.ttf
+/Library/Fonts/Trebuchet MS Italic.ttf
+/Library/Fonts/Trebuchet MS.ttf
+/Library/Fonts/Verdana Bold Italic.ttf
+/Library/Fonts/Verdana Bold.ttf
+/Library/Fonts/Verdana Italic.ttf
+/Library/Fonts/Verdana.ttf
+/Library/Fonts/Waseem.ttc
+/Library/Fonts/Webdings.ttf
+/Library/Fonts/Wingdings 2.ttf
+/Library/Fonts/Wingdings 3.ttf
+/Library/Fonts/Wingdings.ttf
+/Library/Fonts/Zapfino.ttf
+/Library/Fonts/encodings.dir
+/Library/Fonts/fonts.dir
+/Library/Fonts/fonts.list
+/Library/Fonts/fonts.scale
+/Library/Fonts/ヒラギノ丸ゴ ProN W4.ttc
+/Users/muttuwo/Library/Fonts/A-OTF-MidashiGoPro-MB31.otf
+/Users/muttuwo/Library/Fonts/AxisCompStd-ExtraLight.otf
+/Users/muttuwo/Library/Fonts/AxisCompStd-Light.otf
+/Users/muttuwo/Library/Fonts/AxisCompStd-Medium.otf
+/Users/muttuwo/Library/Fonts/AxisCompStd-Regular.otf
+/Users/muttuwo/Library/Fonts/AxisCompStd-UltraLight.otf
+/Users/muttuwo/Library/Fonts/AxisCondStd-Bold.otf
+/Users/muttuwo/Library/Fonts/AxisCondStd-ExtraLight.otf
+/Users/muttuwo/Library/Fonts/AxisCondStd-Light.otf
+/Users/muttuwo/Library/Fonts/AxisCondStd-Medium.otf
+/Users/muttuwo/Library/Fonts/AxisCondStd-Regular.otf
+/Users/muttuwo/Library/Fonts/AxisCondStd-UltraLight.otf
+/Users/muttuwo/Library/Fonts/AxisStd-Bold.otf
+/Users/muttuwo/Library/Fonts/AxisStd-ExtraLight.otf
+/Users/muttuwo/Library/Fonts/AxisStd-Heavy.otf
+/Users/muttuwo/Library/Fonts/AxisStd-Light.otf
+/Users/muttuwo/Library/Fonts/AxisStd-Medium.otf
+/Users/muttuwo/Library/Fonts/AxisStd-Regular.otf
+/Users/muttuwo/Library/Fonts/AxisStd-UltraLight.otf
+/Users/muttuwo/Library/Fonts/AxisTTF_091016.ttf
+/Users/muttuwo/Library/Fonts/DIN Alternate Black.ttf
+/Users/muttuwo/Library/Fonts/DIN Alternate Bold.ttf
+/Users/muttuwo/Library/Fonts/DIN Alternate Light.ttf
+/Users/muttuwo/Library/Fonts/DIN Alternate Medium.ttf
+/Users/muttuwo/Library/Fonts/DIN Alternate.ttf
+/Users/muttuwo/Library/Fonts/DIN Black.ttf
+/Users/muttuwo/Library/Fonts/DIN BlackAlternate.ttf
+/Users/muttuwo/Library/Fonts/DIN Bold.ttf
+/Users/muttuwo/Library/Fonts/DIN BoldAlternate.ttf
+/Users/muttuwo/Library/Fonts/DIN Light.ttf
+/Users/muttuwo/Library/Fonts/DIN LightAlternate.ttf
+/Users/muttuwo/Library/Fonts/DIN Medium.ttf
+/Users/muttuwo/Library/Fonts/DIN MediumAlternate.ttf
+/Users/muttuwo/Library/Fonts/DIN RegularAlternate.ttf
+/Users/muttuwo/Library/Fonts/DIN Schablonierschrift.ttf
+/Users/muttuwo/Library/Fonts/DIN-Black.otf
+/Users/muttuwo/Library/Fonts/DIN-BlackAlternate.otf
+/Users/muttuwo/Library/Fonts/DIN-Bold.otf
+/Users/muttuwo/Library/Fonts/DIN-BoldAlternate.otf
+/Users/muttuwo/Library/Fonts/DIN-Light.otf
+/Users/muttuwo/Library/Fonts/DIN-LightAlternate.otf
+/Users/muttuwo/Library/Fonts/DIN-Medium.otf
+/Users/muttuwo/Library/Fonts/DIN-MediumAlternate.otf
+/Users/muttuwo/Library/Fonts/DIN-Regular.otf
+/Users/muttuwo/Library/Fonts/DIN-RegularAlternate.otf
+/Users/muttuwo/Library/Fonts/DIN.ttf
+/Users/muttuwo/Library/Fonts/DINNextLTPro-Black.otf
+/Users/muttuwo/Library/Fonts/DINNextLTPro-BlackCondensed.otf
+/Users/muttuwo/Library/Fonts/DINNextLTPro-BlackItalic.otf
+/Users/muttuwo/Library/Fonts/DINNextLTPro-Bold.otf
+/Users/muttuwo/Library/Fonts/DINNextLTPro-BoldCondensed.otf
+/Users/muttuwo/Library/Fonts/DINNextLTPro-BoldItalic.otf
+/Users/muttuwo/Library/Fonts/DINNextLTPro-Condensed.otf
+/Users/muttuwo/Library/Fonts/DINNextLTPro-Heavy.otf
+/Users/muttuwo/Library/Fonts/DINNextLTPro-HeavyCondensed.otf
+/Users/muttuwo/Library/Fonts/DINNextLTPro-HeavyItalic.otf
+/Users/muttuwo/Library/Fonts/DINNextLTPro-Italic.otf
+/Users/muttuwo/Library/Fonts/DINNextLTPro-Light.otf
+/Users/muttuwo/Library/Fonts/DINNextLTPro-LightCondensed.otf
+/Users/muttuwo/Library/Fonts/DINNextLTPro-LightItalic.otf
+/Users/muttuwo/Library/Fonts/DINNextLTPro-Medium.otf
+/Users/muttuwo/Library/Fonts/DINNextLTPro-MediumCond.otf
+/Users/muttuwo/Library/Fonts/DINNextLTPro-MediumItalic.otf
+/Users/muttuwo/Library/Fonts/DINNextLTPro-Regular.otf
+/Users/muttuwo/Library/Fonts/DINNextLTPro-UltraLight.otf
+/Users/muttuwo/Library/Fonts/DINNextLTPro-UltraLightCond.otf
+/Users/muttuwo/Library/Fonts/DINNextLTPro-UltraLightIt.otf
+/Users/muttuwo/Library/Fonts/DINNextRoundedLTPro-Bold.otf
+/Users/muttuwo/Library/Fonts/DINNextRoundedLTPro-Light.otf
+/Users/muttuwo/Library/Fonts/DINNextRoundedLTPro-Medium.otf
+/Users/muttuwo/Library/Fonts/DINNextRoundedLTPro-Regular.otf
+/Users/muttuwo/Library/Fonts/NotoKufiArabic-Bold.ttf
+/Users/muttuwo/Library/Fonts/NotoKufiArabic-Regular.ttf
+/Users/muttuwo/Library/Fonts/NotoNaskhArabic-Bold.ttf
+/Users/muttuwo/Library/Fonts/NotoNaskhArabic-Regular.ttf
+/Users/muttuwo/Library/Fonts/NotoNastaliqUrduDraft.ttf
+/Users/muttuwo/Library/Fonts/NotoSans-Bold.ttf
+/Users/muttuwo/Library/Fonts/NotoSans-BoldItalic.ttf
+/Users/muttuwo/Library/Fonts/NotoSans-Italic.ttf
+/Users/muttuwo/Library/Fonts/NotoSans-Regular.ttf
+/Users/muttuwo/Library/Fonts/NotoSansArmenian-Bold.ttf
+/Users/muttuwo/Library/Fonts/NotoSansArmenian-Regular.ttf
+/Users/muttuwo/Library/Fonts/NotoSansAvestan-Regular.ttf
+/Users/muttuwo/Library/Fonts/NotoSansBalinese-Regular.ttf
+/Users/muttuwo/Library/Fonts/NotoSansBamum-Regular.ttf
+/Users/muttuwo/Library/Fonts/NotoSansBatak-Regular.ttf
+/Users/muttuwo/Library/Fonts/NotoSansBengali-Bold.ttf
+/Users/muttuwo/Library/Fonts/NotoSansBengali-Regular.ttf
+/Users/muttuwo/Library/Fonts/NotoSansBrahmi-Regular.ttf
+/Users/muttuwo/Library/Fonts/NotoSansBuginese-Regular.ttf
+/Users/muttuwo/Library/Fonts/NotoSansBuhid-Regular.ttf
+/Users/muttuwo/Library/Fonts/NotoSansCJKjp-Black.otf
+/Users/muttuwo/Library/Fonts/NotoSansCJKjp-Bold.otf
+/Users/muttuwo/Library/Fonts/NotoSansCJKjp-DemiLight.otf
+/Users/muttuwo/Library/Fonts/NotoSansCJKjp-Light.otf
+/Users/muttuwo/Library/Fonts/NotoSansCJKjp-Medium.otf
+/Users/muttuwo/Library/Fonts/NotoSansCJKjp-Regular.otf
+/Users/muttuwo/Library/Fonts/NotoSansCJKjp-Thin.otf
+/Users/muttuwo/Library/Fonts/NotoSansCJKkr-Black.otf
+/Users/muttuwo/Library/Fonts/NotoSansCJKkr-Bold.otf
+/Users/muttuwo/Library/Fonts/NotoSansCJKkr-DemiLight.otf
+/Users/muttuwo/Library/Fonts/NotoSansCJKkr-Light.otf
+/Users/muttuwo/Library/Fonts/NotoSansCJKkr-Medium.otf
+/Users/muttuwo/Library/Fonts/NotoSansCJKkr-Regular.otf
+/Users/muttuwo/Library/Fonts/NotoSansCJKkr-Thin.otf
+/Users/muttuwo/Library/Fonts/NotoSansCJKsc-Black.otf
+/Users/muttuwo/Library/Fonts/NotoSansCJKsc-Bold.otf
+/Users/muttuwo/Library/Fonts/NotoSansCJKsc-DemiLight.otf
+/Users/muttuwo/Library/Fonts/NotoSansCJKsc-Light.otf
+/Users/muttuwo/Library/Fonts/NotoSansCJKsc-Medium.otf
+/Users/muttuwo/Library/Fonts/NotoSansCJKsc-Regular.otf
+/Users/muttuwo/Library/Fonts/NotoSansCJKsc-Thin.otf
+/Users/muttuwo/Library/Fonts/NotoSansCJKtc-Black.otf
+/Users/muttuwo/Library/Fonts/NotoSansCJKtc-Bold.otf
+/Users/muttuwo/Library/Fonts/NotoSansCJKtc-DemiLight.otf
+/Users/muttuwo/Library/Fonts/NotoSansCJKtc-Light.otf
+/Users/muttuwo/Library/Fonts/NotoSansCJKtc-Medium.otf
+/Users/muttuwo/Library/Fonts/NotoSansCJKtc-Regular.otf
+/Users/muttuwo/Library/Fonts/NotoSansCJKtc-Thin.otf
+/Users/muttuwo/Library/Fonts/NotoSansCanadianAboriginal-Regular.ttf
+/Users/muttuwo/Library/Fonts/NotoSansCarian-Regular.ttf
+/Users/muttuwo/Library/Fonts/NotoSansCham-Bold.ttf
+/Users/muttuwo/Library/Fonts/NotoSansCham-Regular.ttf
+/Users/muttuwo/Library/Fonts/NotoSansCherokee-Regular.ttf
+/Users/muttuwo/Library/Fonts/NotoSansCoptic-Regular.ttf
+/Users/muttuwo/Library/Fonts/NotoSansCuneiform-Regular.ttf
+/Users/muttuwo/Library/Fonts/NotoSansCypriot-Regular.ttf
+/Users/muttuwo/Library/Fonts/NotoSansDeseret-Regular.ttf
+/Users/muttuwo/Library/Fonts/NotoSansDevanagari-Bold.ttf
+/Users/muttuwo/Library/Fonts/NotoSansDevanagari-Regular.ttf
+/Users/muttuwo/Library/Fonts/NotoSansEgyptianHieroglyphs-Regular.ttf
+/Users/muttuwo/Library/Fonts/NotoSansEthiopic-Bold.ttf
+/Users/muttuwo/Library/Fonts/NotoSansEthiopic-Regular.ttf
+/Users/muttuwo/Library/Fonts/NotoSansGeorgian-Bold.ttf
+/Users/muttuwo/Library/Fonts/NotoSansGeorgian-Regular.ttf
+/Users/muttuwo/Library/Fonts/NotoSansGlagolitic-Regular.ttf
+/Users/muttuwo/Library/Fonts/NotoSansGothic-Regular.ttf
+/Users/muttuwo/Library/Fonts/NotoSansGujarati-Bold.ttf
+/Users/muttuwo/Library/Fonts/NotoSansGujarati-Regular.ttf
+/Users/muttuwo/Library/Fonts/NotoSansGurmukhi-Bold.ttf
+/Users/muttuwo/Library/Fonts/NotoSansGurmukhi-Regular.ttf
+/Users/muttuwo/Library/Fonts/NotoSansHanunoo-Regular.ttf
+/Users/muttuwo/Library/Fonts/NotoSansHebrew-Bold.ttf
+/Users/muttuwo/Library/Fonts/NotoSansHebrew-Regular.ttf
+/Users/muttuwo/Library/Fonts/NotoSansImperialAramaic-Regular.ttf
+/Users/muttuwo/Library/Fonts/NotoSansInscriptionalPahlavi-Regular.ttf
+/Users/muttuwo/Library/Fonts/NotoSansInscriptionalParthian-Regular.ttf
+/Users/muttuwo/Library/Fonts/NotoSansJavanese-Regular.ttf
+/Users/muttuwo/Library/Fonts/NotoSansKaithi-Regular.ttf
+/Users/muttuwo/Library/Fonts/NotoSansKannada-Bold.ttf
+/Users/muttuwo/Library/Fonts/NotoSansKannada-Regular.ttf
+/Users/muttuwo/Library/Fonts/NotoSansKayahLi-Regular.ttf
+/Users/muttuwo/Library/Fonts/NotoSansKharoshthi-Regular.ttf
+/Users/muttuwo/Library/Fonts/NotoSansKhmer-Bold.ttf
+/Users/muttuwo/Library/Fonts/NotoSansKhmer-Regular.ttf
+/Users/muttuwo/Library/Fonts/NotoSansLao-Bold.ttf
+/Users/muttuwo/Library/Fonts/NotoSansLao-Regular.ttf
+/Users/muttuwo/Library/Fonts/NotoSansLepcha-Regular.ttf
+/Users/muttuwo/Library/Fonts/NotoSansLimbu-Regular.ttf
+/Users/muttuwo/Library/Fonts/NotoSansLinearB-Regular.ttf
+/Users/muttuwo/Library/Fonts/NotoSansLisu-Regular.ttf
+/Users/muttuwo/Library/Fonts/NotoSansLycian-Regular.ttf
+/Users/muttuwo/Library/Fonts/NotoSansLydian-Regular.ttf
+/Users/muttuwo/Library/Fonts/NotoSansMalayalam-Bold.ttf
+/Users/muttuwo/Library/Fonts/NotoSansMalayalam-Regular.ttf
+/Users/muttuwo/Library/Fonts/NotoSansMandaic-Regular.ttf
+/Users/muttuwo/Library/Fonts/NotoSansMeeteiMayek-Regular.ttf
+/Users/muttuwo/Library/Fonts/NotoSansMongolian-Regular.ttf
+/Users/muttuwo/Library/Fonts/NotoSansMyanmar-Bold.ttf
+/Users/muttuwo/Library/Fonts/NotoSansMyanmar-Regular.ttf
+/Users/muttuwo/Library/Fonts/NotoSansNKo-Regular.ttf
+/Users/muttuwo/Library/Fonts/NotoSansNewTaiLue-Regular.ttf
+/Users/muttuwo/Library/Fonts/NotoSansOgham-Regular.ttf
+/Users/muttuwo/Library/Fonts/NotoSansOlChiki-Regular.ttf
+/Users/muttuwo/Library/Fonts/NotoSansOldItalic-Regular.ttf
+/Users/muttuwo/Library/Fonts/NotoSansOldPersian-Regular.ttf
+/Users/muttuwo/Library/Fonts/NotoSansOldSouthArabian-Regular.ttf
+/Users/muttuwo/Library/Fonts/NotoSansOldTurkic-Regular.ttf
+/Users/muttuwo/Library/Fonts/NotoSansOriya-Bold.ttf
+/Users/muttuwo/Library/Fonts/NotoSansOriya-Regular.ttf
+/Users/muttuwo/Library/Fonts/NotoSansOsmanya-Regular.ttf
+/Users/muttuwo/Library/Fonts/NotoSansPhagsPa-Regular.ttf
+/Users/muttuwo/Library/Fonts/NotoSansPhoenician-Regular.ttf
+/Users/muttuwo/Library/Fonts/NotoSansRejang-Regular.ttf
+/Users/muttuwo/Library/Fonts/NotoSansRunic-Regular.ttf
+/Users/muttuwo/Library/Fonts/NotoSansSamaritan-Regular.ttf
+/Users/muttuwo/Library/Fonts/NotoSansSaurashtra-Regular.ttf
+/Users/muttuwo/Library/Fonts/NotoSansShavian-Regular.ttf
+/Users/muttuwo/Library/Fonts/NotoSansSinhala-Bold.ttf
+/Users/muttuwo/Library/Fonts/NotoSansSinhala-Regular.ttf
+/Users/muttuwo/Library/Fonts/NotoSansSundanese-Regular.ttf
+/Users/muttuwo/Library/Fonts/NotoSansSylotiNagri-Regular.ttf
+/Users/muttuwo/Library/Fonts/NotoSansSymbols-Regular.ttf
+/Users/muttuwo/Library/Fonts/NotoSansSyriacEastern-Regular.ttf
+/Users/muttuwo/Library/Fonts/NotoSansSyriacEstrangela-Regular.ttf
+/Users/muttuwo/Library/Fonts/NotoSansSyriacWestern-Regular.ttf
+/Users/muttuwo/Library/Fonts/NotoSansTagalog-Regular.ttf
+/Users/muttuwo/Library/Fonts/NotoSansTagbanwa-Regular.ttf
+/Users/muttuwo/Library/Fonts/NotoSansTaiLe-Regular.ttf
+/Users/muttuwo/Library/Fonts/NotoSansTaiTham-Regular.ttf
+/Users/muttuwo/Library/Fonts/NotoSansTaiViet-Regular.ttf
+/Users/muttuwo/Library/Fonts/NotoSansTamil-Bold.ttf
+/Users/muttuwo/Library/Fonts/NotoSansTamil-Regular.ttf
+/Users/muttuwo/Library/Fonts/NotoSansTelugu-Bold.ttf
+/Users/muttuwo/Library/Fonts/NotoSansTelugu-Regular.ttf
+/Users/muttuwo/Library/Fonts/NotoSansThaana-Bold.ttf
+/Users/muttuwo/Library/Fonts/NotoSansThaana-Regular.ttf
+/Users/muttuwo/Library/Fonts/NotoSansThai-Bold.ttf
+/Users/muttuwo/Library/Fonts/NotoSansThai-Regular.ttf
+/Users/muttuwo/Library/Fonts/NotoSansTibetan-Regular.ttf
+/Users/muttuwo/Library/Fonts/NotoSansTifinagh-Regular.ttf
+/Users/muttuwo/Library/Fonts/NotoSansUgaritic-Regular.ttf
+/Users/muttuwo/Library/Fonts/NotoSansVai-Regular.ttf
+/Users/muttuwo/Library/Fonts/NotoSansYi-Regular.ttf
+/Users/muttuwo/Library/Fonts/NotoSerif-Bold.ttf
+/Users/muttuwo/Library/Fonts/NotoSerif-BoldItalic.ttf
+/Users/muttuwo/Library/Fonts/NotoSerif-Italic.ttf
+/Users/muttuwo/Library/Fonts/NotoSerif-Regular.ttf
+/Users/muttuwo/Library/Fonts/NotoSerifArmenian-Bold.ttf
+/Users/muttuwo/Library/Fonts/NotoSerifArmenian-Regular.ttf
+/Users/muttuwo/Library/Fonts/NotoSerifGeorgian-Bold.ttf
+/Users/muttuwo/Library/Fonts/NotoSerifGeorgian-Regular.ttf
+/Users/muttuwo/Library/Fonts/NotoSerifKhmer-Bold.ttf
+/Users/muttuwo/Library/Fonts/NotoSerifKhmer-Regular.ttf
+/Users/muttuwo/Library/Fonts/NotoSerifLao-Bold.ttf
+/Users/muttuwo/Library/Fonts/NotoSerifLao-Regular.ttf
+/Users/muttuwo/Library/Fonts/NotoSerifThai-Bold.ttf
+/Users/muttuwo/Library/Fonts/NotoSerifThai-Regular.ttf
+/Users/muttuwo/Library/Fonts/Oswald-Bold.ttf
+/Users/muttuwo/Library/Fonts/Oswald-ExtraLight.ttf
+/Users/muttuwo/Library/Fonts/Oswald-Light.ttf
+/Users/muttuwo/Library/Fonts/Oswald-Medium.ttf
+/Users/muttuwo/Library/Fonts/Oswald-Regular.ttf
+/Users/muttuwo/Library/Fonts/Oswald-SemiBold.ttf
+/Users/muttuwo/Library/Fonts/Quicksand-Bold.ttf*
+/Users/muttuwo/Library/Fonts/Quicksand-Light.ttf*
+/Users/muttuwo/Library/Fonts/Quicksand-Medium.ttf*
+/Users/muttuwo/Library/Fonts/Quicksand-Regular.ttf*
+/Users/muttuwo/Library/Fonts/Univers-Black.otf
+/Users/muttuwo/Library/Fonts/Univers-BlackExt.otf
+/Users/muttuwo/Library/Fonts/Univers-BlackExtObl.otf
+/Users/muttuwo/Library/Fonts/Univers-BlackOblique.otf
+/Users/muttuwo/Library/Fonts/Univers-Bold.otf
+/Users/muttuwo/Library/Fonts/Univers-BoldExt.otf
+/Users/muttuwo/Library/Fonts/Univers-BoldExtObl.otf
+/Users/muttuwo/Library/Fonts/Univers-BoldOblique.otf
+/Users/muttuwo/Library/Fonts/Univers-Condensed.otf
+/Users/muttuwo/Library/Fonts/Univers-CondensedBold.otf
+/Users/muttuwo/Library/Fonts/Univers-CondensedBoldOblique.otf
+/Users/muttuwo/Library/Fonts/Univers-CondensedLight.otf
+/Users/muttuwo/Library/Fonts/Univers-CondensedLightOblique.otf
+/Users/muttuwo/Library/Fonts/Univers-CondensedOblique.otf
+/Users/muttuwo/Library/Fonts/Univers-Extended.otf
+/Users/muttuwo/Library/Fonts/Univers-ExtendedObl.otf
+/Users/muttuwo/Library/Fonts/Univers-ExtraBlack.otf
+/Users/muttuwo/Library/Fonts/Univers-ExtraBlackExt.otf
+/Users/muttuwo/Library/Fonts/Univers-ExtraBlackExtObl.otf
+/Users/muttuwo/Library/Fonts/Univers-ExtraBlackObl.otf
+/Users/muttuwo/Library/Fonts/Univers-Light.otf
+/Users/muttuwo/Library/Fonts/Univers-LightOblique.otf
+/Users/muttuwo/Library/Fonts/Univers-LightUltraCondensed.otf
+/Users/muttuwo/Library/Fonts/Univers-Oblique.otf
+/Users/muttuwo/Library/Fonts/Univers-ThinUltraCondensed.otf
+/Users/muttuwo/Library/Fonts/Univers-UltraCondensed.otf
+/Users/muttuwo/Library/Fonts/Univers.otf

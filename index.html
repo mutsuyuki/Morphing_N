@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+        .navbar-container {
+            width: 750px;
+            height: 100%;
+            line-height: 50px;
+            font-size: 18px;
+            margin-left: 50px;
+            color: white;
+        }
+
+        .wrapper {
+            max-width: 960px;
+            height: calc(100vh - 66px);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            margin: 0 auto;
+        }
+
+        .wrapper > .custom-container {
+            width: 100%;
+        }
+
+        .canvas-container {
+            padding: 0 40px !important;
+        }
+
+        .ui-container {
+          margin-top: 112px;
+          padding: 0 40px !important;
+        }
+
+        canvas {
+            width: 100%;
+            background: #fafafa;
+            /* border: 1px solid #eee; */
+            line-height: 200px;
+        }
+
+        .button-container {
+            margin-top: 112px;
+        }
+
+        .button-container > .btn {
+          display: block;
+          margin: 0 auto;
+        }
+
+        input[type="range"] {
+            width: 100%;
+            height: 8px;
+            background-color: #ddd;
+            border-radius: 4px;
+            /* border: solid 1px #eee; */
+            -webkit-appearance: none;
+            appearance: none;
+        }
+
+        input[type="range"]:focus, input[type="range"]:active {
+            outline: none;
+        }
+
+        input[type="range"]::-webkit-slider-thumb {
+            -webkit-appearance: none;
+            appearance: none;
+            cursor: pointer;
+            position: relative;
+            border: none;
+            width: 24px;
+            height: 24px;
+            display: block;
+            background-color: #343a40;
+            border-radius: 50%;
+            -webkit-border-radius: 50%;
+        }
+
+
+    </style>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+<body>
+<nav class="navbar navbar-dark bg-dark">
+    <div class="navbar-container">
+        Can GAN make a logo ?
+    </div>
+</nav>
+
+<div class="wrapper">
+  <div class="custom-container">
+      <div class="row">
+          <div class="col-sm-4 canvas-container">
+              <canvas id="font_canvas0" width="96" height="96" class="shadow-lg bg-white rounded"></canvas>
+          </div>
+          <div class="col-sm-4 canvas-container">
+              <canvas id="font_canvas1" width="96" height="96" class="shadow-lg bg-white rounded"></canvas>
+          </div>
+          <div class="col-sm-4 canvas-container">
+              <canvas id="font_canvas2" width="96" height="96" class="shadow-lg bg-white rounded"></canvas>
+          </div>
+      </div>
+  
+      <div class="row">
+          <div class="col-sm-12 button-container">
+              <button type="button" class="btn btn-dark btn-lg shadow rounded" onclick="getRandomImage()">Random</button>
+          </div>
+      </div>
+  
+      <div class="row">
+          <div class="col-sm-12 ui-container">
+              <input id="slider-loop" class="slider" type="range" step="0.05" oninput="onLoopSliderChange()" >
+          </div>
+      </div>
+  </div>
+</div>
+
+<script>
+    var loopSlider = document.getElementById("slider-loop");
+
+    var canvases = [];
+    for (var i = 0; i < 3; i++) {
+        canvases.push(document.getElementById("font_canvas" + i));
+    }
+    var top_ = 0.0;
+    var left = 0.0;
+    var width = 96.0;
+    var height = 96.0;
+
+    var isCalling = false;
+    var baseUrl = "http://127.0.0.1:5000/"
+
+    function getRandomImage() {
+        callApi(baseUrl)
+    }
+
+    function onLoopSliderChange() {
+        var offsetValue  = parseFloat(loopSlider.value) - 60
+        console.log(offsetValue)
+        callApi(baseUrl + "sin/" + offsetValue)
+    }
+
+    function callApi(__url){
+        if (isCalling) return;
+        isCalling = true;
+
+        $.ajax({
+            url: __url,
+        }).done(function (__data) {
+            updateAllCanvas(__data);
+            isCalling = false;
+        }).fail(function (__data) {
+            alert('error!!!');
+        });
+    }
+
+    function updateAllCanvas(__data) {
+        var fontsData = __data.split(",");
+        var numberByChara = fontsData.length / 3;
+        for (var i = 0; i < canvases.length; i++) {
+            updateCanvas(canvases[i], fontsData.slice(i * numberByChara, (i + 1) * numberByChara));
+        }
+    }
+
+    function updateCanvas(__canvas, __fontData) {
+        var context = __canvas.getContext('2d');
+        console.log(top_, left, width, height);
+        var ImageData = context.getImageData(top_, left, width, height);
+
+        var idx;
+        var upIdx;
+        var downIdx;
+        var leftIdx;
+        var rightIdx;
+        for (var y = 0; y < height; y++) {
+            for (var x = 0; x < width; x++) {
+                idx = width * y + x;
+                pixelIdx = idx * 4;
+                // upIdx = width * Math.max(0, y - 1) + x;
+                // downIdx = width * Math.min(height - 1, y + 1) + x;
+                // leftIdx = width * y + Math.max(0 , x - 1);
+                // rightIdx = width * y + Math.min(width - 1 , x + 1)
+
+                var isBlack = __fontData[idx] < 200;
+                if (isBlack) {
+                    // var pixelColor = __fontData[idx] * 0.8 + (__fontData[upIdx] + __fontData[downIdx] + __fontData[leftIdx]  + __fontData[rightIdx] ) * 0.05;
+                    var pixelColor = __fontData[idx]
+                    ImageData.data[pixelIdx + 0] = pixelColor;
+                    ImageData.data[pixelIdx + 1] = pixelColor;
+                    ImageData.data[pixelIdx + 2] = pixelColor;
+                    ImageData.data[pixelIdx + 3] = 255;
+                } else {
+                    ImageData.data[pixelIdx + 0] = 255;
+                    ImageData.data[pixelIdx + 1] = 255;
+                    ImageData.data[pixelIdx + 2] = 255;
+                    ImageData.data[pixelIdx + 3] = 255;
+                }
+            }
+        }
+        context.putImageData(ImageData, top_, left);
+    }
+
+    onLoopSliderChange();
+
+
+</script>
+
+</body>
+</html>
